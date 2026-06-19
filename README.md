@@ -94,6 +94,8 @@ The Power BI report includes four dashboard pages:
 
 ## Documentation
 
+* [Project Wiki](https://github.com/udaybhaskar-23/Live-Stock-Market-Intelligence-Dashboard/wiki)
+
 Detailed documentation is available in the `docs` folder:
 
 * [Project Summary](docs/project_summary.md)
