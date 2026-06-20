@@ -1,5 +1,7 @@
 # Live Stock Market Intelligence Dashboard
 
+🔗 **Portfolio Website:** [https://udaybhaskar-23.github.io](https://udaybhaskar-23.github.io)
+
 ## Project Overview
 
 This project is an API-connected Power BI dashboard designed to analyze stock market performance across selected technology companies. The dashboard provides interactive insights into stock price trends, trading volume, daily performance, intraday returns, risk indicators, and multi-company comparison.
